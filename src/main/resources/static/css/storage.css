@@ -1,0 +1,31 @@
+body {
+    background-color: gray;
+}
+
+textarea {
+    width: 1200px;
+    height: 200px;
+}
+
+.confirm-message {
+    text-align: center;
+    border-style: solid;
+    border-width: 2px;
+    border-color: green;
+    color: green;
+    font-size: 20px;
+    width: 1192px;
+    padding: 5px;
+}
+
+.content {
+    margin: auto;
+    padding: 25px;
+    width: 1200px;
+    background-color: white;
+}
+
+.title {
+    text-align: center;
+    margin: auto;
+}
